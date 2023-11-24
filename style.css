@@ -1,0 +1,26 @@
+body{
+    background: darkgrey
+}
+div{
+    color: aqua;
+    text-align: center;
+    font-size: 50px;
+}
+#hour{
+    background: red;
+    border-radius: 5px;
+    padding: 0 10px;
+    margin: 0;
+}
+#minute{
+    background: black;
+    border-radius: 5px;
+    padding: 0 10px;
+    margin: 0;
+}
+#second{
+    background: white;
+    border-radius: 5px;
+    padding: 0 10px;
+    margin: 0;
+}
